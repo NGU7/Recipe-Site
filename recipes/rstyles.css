@@ -1,0 +1,24 @@
+.coldBrewBack {
+    background-color: #A37B6B;
+}
+
+.bFHCback {
+    background-color: #5AC268;
+}
+
+.mapoTofuBack {
+    background-color: #E6A625;
+}
+
+.cPicadillo {
+    background-color: #E65945;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+#title {
+    font-style: italic;
+}
